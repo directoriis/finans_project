@@ -1,2 +1,2 @@
-# finans_project
-Site de finanças Finans
+# Projeto website de soluções financeiras Finans
+O website de finanças Finans foi o a porta de entrada para o estudo de framework. No projeto em questão o framework bootstrap...
